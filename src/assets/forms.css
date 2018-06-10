@@ -1,0 +1,7 @@
+.ng-valid[required], .ng-valid[required]:focus {
+  background-color: rgba(108,250,67,0.35);
+}
+
+.ng-invalid:not(form), .ng-invalid:not(form):focus {
+  background-color: rgba(250,82,76,0.35)
+}
